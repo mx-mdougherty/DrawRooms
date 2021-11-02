@@ -5,6 +5,8 @@ let r;
 let g;
 let b;
 
+// test github update
+
 window.addEventListener("load",()=>{
   let roomName = window.prompt("Enter room name:");
   console.log(roomName);
